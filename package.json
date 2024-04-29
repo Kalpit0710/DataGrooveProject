@@ -9,6 +9,7 @@
   "author": "Bhumika",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
     "ejs": "^3.1.10",
@@ -20,6 +21,6 @@
     "nodemon": "^3.1.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "pdfmake": "^0.1.63"
+    "pdfmake": "^0.1.72"
   }
 }
